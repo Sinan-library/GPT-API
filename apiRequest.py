@@ -4,7 +4,7 @@ import time
 
 API_ENDPOINT = "https://api.openai.com/v1/chat/completions"
 HEADERS = {
-    "Authorization": "Bearer YOUR_API_KEY",
+    "Authorization": "Bearer YOUR_API_KEY_HERE",
     "Content-Type": "application/json"
 }
 
